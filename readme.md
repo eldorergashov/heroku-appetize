@@ -48,8 +48,7 @@ pip install -r requirements.txt
 1. All test cases located in `project_root/tests/`
 2. Test runner behavior (pytest) can be tweaked by editing `pytest.ini`
 3. By default, fixtures (setup, teardown functions) located in `conftest.py`
-4. Page object models located in `пропиши тут сам путь до моделей`
-5. Можешь добавить чтото еще если хочешь
+4. Page object models located in 'services/herokuapp/pages'
 </details>
 
 ## Test Execution 
