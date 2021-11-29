@@ -1,0 +1,1 @@
+Locating for: //button[@onclick='jsPrompt()'] takes 30 seconds

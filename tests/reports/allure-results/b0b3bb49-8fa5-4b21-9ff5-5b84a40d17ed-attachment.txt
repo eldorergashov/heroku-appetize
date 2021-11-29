@@ -1,0 +1,2 @@
+Locating for: //button[@onclick='swapInput()'] takes 30 seconds
+Locating for: //p[@id='message'] takes 30 seconds

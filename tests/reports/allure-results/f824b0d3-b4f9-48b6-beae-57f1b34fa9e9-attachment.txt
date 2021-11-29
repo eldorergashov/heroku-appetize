@@ -1,0 +1,1 @@
+Locating for: //button[@onclick='getLocation()'] takes 30 seconds

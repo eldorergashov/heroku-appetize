@@ -1,0 +1,5 @@
+Locating for: //button[@onclick='getLocation()'] takes 30 seconds
+Locating for: //div[@id='lat-value'] takes 30 seconds
+Locating for: //div[@id='long-value'] takes 30 seconds
+34.1965416
+-118.45763

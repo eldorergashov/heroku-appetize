@@ -1,0 +1,5 @@
+a_checkbox = "//input[@type='checkbox']"
+remove_add_btn = "//button[@onclick='swapCheckbox()']"
+enable_disable_button = "//button[@onclick='swapInput()']"
+checkbox_message = "//p[@id='message']"
+text_input_box = "//input[@type='text']"

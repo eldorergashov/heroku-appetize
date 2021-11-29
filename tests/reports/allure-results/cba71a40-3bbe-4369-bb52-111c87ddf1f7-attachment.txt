@@ -1,0 +1,6 @@
+Locating for: //button[@onclick='getLocation()'] takes 30 seconds
+Locating for: //div[@id='lat-value'] takes 30 seconds
+Locating for: //div[@id='long-value'] takes 30 seconds
+My geolocation is:
+latitude: 34.1901312
+longitude: -118.4530432

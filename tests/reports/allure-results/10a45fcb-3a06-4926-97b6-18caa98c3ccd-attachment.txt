@@ -1,0 +1,3 @@
+Locating for: //button[@onclick='swapCheckbox()'] takes 30 seconds
+Locating for: //p[@id='message'] takes 30 seconds
+Locating for: //input[@type='checkbox'] takes 30 seconds

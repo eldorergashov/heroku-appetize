@@ -1,0 +1,2 @@
+Locating for: //button[@onclick='jsPrompt()'] takes 30 seconds
+Locating for: //p[@id='result'] takes 30 seconds

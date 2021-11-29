@@ -1,0 +1,2 @@
+Locating for: //button[@onclick='jsConfirm()'] takes 30 seconds
+I am a JS Confirm

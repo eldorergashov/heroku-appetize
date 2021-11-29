@@ -1,0 +1,38 @@
+{
+  "services": {
+    "herokuapp": {
+      "pages": {
+        "login_page": {
+          "url" : "https://the-internet.herokuapp.com/login",
+          "login_username" : "tomsmith",
+          "login_password" : "SuperSecretPassword!",
+          "invalid_username_txt" : "Your username is invalid!",
+          "invalid_password_txt" : "Your password is invalid!"
+        },
+        "secure_page": {
+          "url" : "https://the-internet.herokuapp.com/secure",
+          "secure_logged_in_txt" : "You logged into a secure area!",
+          "secure_area_txt" : "Secure Area",
+          "welcome_txt" : "Welcome to the Secure Area. When you are done click logout below."
+        },
+        "geo_location": {
+          "url" : "https://the-internet.herokuapp.com/geolocation"
+        },
+        "dynamic_controls" : {
+          "url" : "https://the-internet.herokuapp.com/dynamic_controls",
+          "gone_text" : "It's gone!",
+          "added_text" : "It's back!",
+          "enabled_text" : "It's enabled!",
+          "disabled_text" : "It's disabled!"
+        },
+        "javascript_alerts" : {
+          "url" : "https://the-internet.herokuapp.com/javascript_alerts",
+          "js_alert_text" : "I am a JS Alert",
+          "js_confirm_text" : "I am a JS Confirm",
+          "js_prompt_text" : "I am a JS prompt",
+          "js_prompt_input_text" : "This is a text from a JavaScript prompt"
+        }
+      }
+    }
+  }
+}
